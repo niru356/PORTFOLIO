@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "npm --prefix react-portfolio run dev",
+    "build": "npm --prefix react-portfolio run build",
+    "lint": "npm --prefix react-portfolio run lint",
+    "preview": "npm --prefix react-portfolio run preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
